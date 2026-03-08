@@ -76,7 +76,7 @@ The dataset contains road accident information including:
 ## Repository Contents
 
 * `road_accident_dashboard.xlsx` – Interactive Excel dashboard
-* `accident_dataset.csv` – Dataset used for analysis
+* `road_accident_dataset.zip` – Dataset used for analysis
 * `dashboard_preview.png` – Dashboard screenshot
 * `README.md` – Project documentation
 
